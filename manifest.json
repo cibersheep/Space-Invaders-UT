@@ -1,0 +1,14 @@
+{
+    "description":  "Space Invaders made with SVG files (aka Space InVectors)",
+    "framework":    "ubuntu-sdk-15.04.5",
+    "hooks": {
+        "spaceinvaders": {
+            "apparmor": "app.json",
+            "desktop":  "app.desktop"
+        }
+    },
+    "maintainer":   "Joan CiberSheep <cibersheep@gmail.com>",
+    "name":         "spaceinvaders.cibersheep",
+    "title":        "Space Invaders",
+    "version":      "1.1"
+}

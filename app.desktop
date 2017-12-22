@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Space Invaders
+Comment=Space Invaders made with SVG files
+Exec=webapp-container --app-id="spaceinvaders.cibersheep" --fullscreen  $@ www/index.html
+Terminal=false
+Type=Application
+Categories=Utility;TextTools
+X-Ubuntu-Touch=true
+Icon=./www/Images/icon.svg
+X-Ubuntu-Splash-Color=#000000
+X-Ubuntu-Splash-Image=./www/Images/icon.svg
